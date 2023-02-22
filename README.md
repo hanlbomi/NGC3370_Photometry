@@ -4,6 +4,7 @@ Calibrated photometry of point sources in the NGC 3370 ACS field.
 Deep F555W and F814W images were processed using four distinct methods. 
    
 ● DOLPHOT with automatic aperture corrections on individual frames (PhotA.dat)
+
 ● DOLPHOT with manual aperture corrections on individual frames (PhotB.dat)
    
 ● DAOPHOT with empirical PSFs on stacked frames (PhotC.dat)
