@@ -11,5 +11,4 @@ Deep F555W and F814W images were processed using four distinct methods.
    
 ● DAOPHOT with synthetic PSFs on stacked frames (PhotD.dat)
    
-Please refer to Jang 2023, MNRAS, ***, *** for more information. 
-These catalogs were utilized to create Figure 12 in the paper.
+Please refer to Jang 2023, MNRAS, 521, 1532 for more information. 
